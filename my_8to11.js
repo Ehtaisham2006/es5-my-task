@@ -46,19 +46,19 @@ if (type === "male") {
 // Q # 5 : Write a program to take input color of road traffic signal from
 // the user & show the message according to this table:
 
-var color=prompt("Enter the color for its description");
+// var color=prompt("Enter the color for its description");
 
-if (color==="red"){
-    alert("Vechile must stop")
-}
+// if (color==="red"){
+//     alert("Vechile must stop")
+// }
 
-if (color==="yellow"){
-    alert("Vechile should get ready to move ")
-}
+// if (color==="yellow"){
+//     alert("Vechile should get ready to move ")
+// }
 
-if (color==="green"){
-    alert("Vechile can move now ")
-}
+// if (color==="green"){
+//     alert("Vechile can move now ")
+// }
 
 //  Q #  6 : Write a program to take input max age & current age from
 // user. If the current age is less than or equal to max age, show the message “You are welcome”

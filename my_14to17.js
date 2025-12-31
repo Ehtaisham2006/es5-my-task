@@ -80,18 +80,20 @@ var fav_Car = ["Audi", "BMW", "Mercedes", "Tesla"];
 // that total marks are 500 for each student, display the scores &
 // percentages of students like:
 
-var studentNames = ["Ali", "Irtiza", "Huzaifa"];
 
-var studentScores = [320, 230, 480];
 
-var totalMarks = 500;
+// var studentNames = ["Ali", "Irtiza", "Huzaifa"];
 
-for (var i = 0; i < studentNames.length; i++) {
+// var studentScores = [320, 230, 480];
 
-    var percentage = (studentScores[i] / totalMarks) * 100;
+// var totalMarks = 500;
 
-    document.write("Score of " + studentNames[i] + " is " + studentScores[i] + ". Percentage: " + percentage + "%");
-}
+// for (var i = 0; i < studentNames.length; i++) {
+
+//     var percentage = (studentScores[i] / totalMarks) * 100;
+
+//     document.write("Score of " + studentNames[i] + " is " + studentScores[i] + ". Percentage: " + percentage + "%");
+// }
 
 
 
