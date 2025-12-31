@@ -1,3 +1,4 @@
+// chap 5 to 7
 //  Q # 1 :Write a program that take two numbers & add them in a new
 // variable. Show the result in your browser.
 
